@@ -11,7 +11,8 @@ Het schema van de omzetting wordt weergegeven in onderstaande afbeelding
 
 
 .Principe schakelende voeding
-image::ch01/images/principe_geschakelde_voeding.png[alt="psu principe", align="center", scaledwidth="100"]
+image::ch01/images/principe_geschakelde_voeding.png[alt="psu principe", align="center", scaledwidth="100"] 
+//typfout bij stabiele voeding
 
 Een eerste stap ① is de *gelijkrichter* aan de ingang, waarmee de wisselspanning wordt omgezet naar een gelijkspanning. Deze gelijkspanning wordt vervolgens gefilterd, zodat de variatie in het spanningsniveau beperkt wordt.
 De tweede stap ② is een stuk minder voor de hand liggend. Op basis van de gelijkgerichte en gefilterde ingangsspanning zal een +invertor+ een blokgolf genereren. Deze wisselspanning wordt bekomen door het aan- en afschakelen van de ingangsspanning. 
